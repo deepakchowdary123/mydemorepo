@@ -1,2 +1,1 @@
-# mydemorepo
-this repo servers as demo repo for running my appliacations
+<h1>welcome to hello world page</h1>
